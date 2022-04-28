@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alkesh6" alt="alkesh6" /></a> </p>
 
-- 🌱 I’m currently learning **Competetive Programmuing using pythoon.**
+- 🌱 I’m currently learning **Competetive Programmuing using python.**
 
 - 💬 Ask me about **Frontend Development.**
 
